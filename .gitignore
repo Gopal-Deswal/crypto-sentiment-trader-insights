@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Data and output directories
+data/
+!data/README.md
+outputs/
+!outputs/README.md
+
+# IDE/editor configs (optional, if you want to exclude local settings)
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
